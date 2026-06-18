@@ -1,7 +1,5 @@
 # Anti-Money Laundering Detection Using Machine Learning
 
-COMM074 Practical Business Analytics, Group 19 - University of Surrey.
-
 A machine learning project that detects money-laundering transactions in the IBM Transactions for Anti-Money Laundering (AML) HI-Small dataset. The work follows the CRISP-DM lifecycle from data understanding through to a consolidated evaluation dashboard.
 
 **Dataset:** [IBM Transactions for AML (HI-Small)](https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml)
