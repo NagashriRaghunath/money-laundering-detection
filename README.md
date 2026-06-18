@@ -16,11 +16,7 @@ A machine learning project that detects money-laundering transactions in the IBM
 | `Group_Notebook_2_Visualisation.ipynb` | 5 | Aggregates all models into an evaluation dashboard |
 | `cross_group_comparison_final.csv` | - | Small results file powering the dashboard |
 
-## The approach
 
-- **Sections 1 & 2 - Data prep:** loading the dataset, exploratory analysis (distributions, correlations), and pre-processing. Class imbalance is handled with SMOTE balancing at a 10% ratio.
-- **Sections 3 & 4 - Modelling:** each group member trained a shared Logistic Regression (L2) baseline plus a unique model of their own, then tuned and evaluated it.
-- **Section 5 - Evaluation:** all the individual models are pulled together into a single dashboard for a like-for-like comparison.
 
 ## A note on the data
 
